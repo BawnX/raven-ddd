@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/applications/authentication/backend/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/applications/university/backend/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/applications/academy_backend/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/applications/backend/academy/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/applications/backend/financing/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/applications/backend/match_network/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/applications/backend/payments/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/applications/financing_backend/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/applications/match_network_backend/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/applications/payments_backend/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/libraries/academy_library/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/libraries/financing_library/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/libraries/match_network_library/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/libraries/payments_library/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/libraries/shared_library/src" isTestSource="false" />
+      <excludeFolder url="file://$MODULE_DIR$/target" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
